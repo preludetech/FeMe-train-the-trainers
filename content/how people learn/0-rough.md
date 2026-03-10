@@ -10,10 +10,10 @@ Trick question: What’s more important in the courses you will be delivering: K
 
 Remembering things
 
-Memorisation is often necessary when learning new things; it usually is not the end goal 
+Memorization is often necessary when learning new things; it usually is not the end goal 
 There are different techniques - some work, some don’t.
 
-Memorisation has a bad reputation because rote memorisation and cramming don’t build long-term capabilities.  But if you wanted to understand something novel about a system, you should know about its component parts. Memorisation is about building mental building blocks that you can use to solve bigger problems.
+Memorization has a bad reputation because rote memorization and cramming don’t build long-term capabilities.  But if you wanted to understand something novel about a system, you should know about its component parts. Memorization is about building mental building blocks that you can use to solve bigger problems.
 Spaced repetition
 If I tell you something once, you might remember it. Maybe not 
 If I tell you something 3 times in a row… not much change 
@@ -83,9 +83,9 @@ Here’s another thing that has happened a lot:
 
 I’ll ask a student about a code concept (e.g., a return statement or a for loop), I’ll ask them to explain what it is, what it does, etc. 
 The student will then give me a perfect textbook definition.  
-I then write a small code snippet demonstrating the concept. I keep it super simple. The student is unable to reason about what the code does.  They focused on memorisation rather than understanding.  
+I then write a small code snippet demonstrating the concept. I keep it super simple. The student is unable to reason about what the code does.  They focused on memorization rather than understanding.  
 
-As an educator, it’s important not to fall into the trap of mistaking memorisation for understanding. Many people would have heard the perfect definition and stopped there, accepting that the student understood.  (We’ll talk about assessment later on)
+As an educator, it’s important not to fall into the trap of mistaking memorization for understanding. Many people would have heard the perfect definition and stopped there, accepting that the student understood.  (We’ll talk about assessment later on)
 
 Audience participation: What is understanding? 
 
@@ -105,7 +105,7 @@ Q3: How can X come into play in situation Z
 
 Understanding helps with memory because:
 
-Seeking understanding leads to memorisation of relevant facts
+Seeking understanding leads to memorization of relevant facts
 If you have a strong mental framework, it’s easier to recall the component parts
 If you see the relevance of new knowledge and can connect it to knowledge you already have, you are more likely to remember it 
 

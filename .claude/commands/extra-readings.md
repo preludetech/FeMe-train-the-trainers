@@ -20,3 +20,7 @@ Read `6-activities.md` in the current directory and add a "Further Reading" sect
 - Do not invent references — only include resources you are confident exist
 - Use web research to verify URLs and availability where possible
 - Do not modify the rest of the content — only add the Further Reading section
+
+## Report
+
+At the end, report any problems and what you have done. If any resources need to be checked then state that clearly.

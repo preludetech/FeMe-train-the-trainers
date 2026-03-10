@@ -1,9 +1,13 @@
 Reference format: TASL
-Title: The title of the work.
-Author: The creator's name, ideally hyperlinked to their profile.
-Source: A direct URL to where the work is found.
-License: The specific CC license (e.g., CC BY 4.0), hyperlinked to the license deed. 
 
+- Title: The title of the work.
+- Author: The creator's name, ideally hyperlinked to their profile.
+- Source: A direct URL to where the work is found.
+- License: The specific CC license (e.g., CC BY 4.0), hyperlinked to the license deed. If the license is not available, leave thi out
+
+## IMPORTANT
+
+Every Source should be a valid URL! Not just the name of a publication
 
 
 ## What NOT to do
